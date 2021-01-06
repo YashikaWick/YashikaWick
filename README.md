@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikawick" alt="yashikawick" /></a> </p>
 
-- 🔭 I’m currently working on [labManagement](https://github.com/YashikaWick/labManagement)
+- 🔭 I’m currently working on [Laboratory Management System](https://github.com/YashikaWick/labManagement)
 
 - 🌱 I’m currently learning **Java, Spring framework, Angular, Oracle Hyperion**
 
