@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Laboratory Management System](https://github.com/YashikaWick/labManagement)
 
-- 🌱 I’m currently learning **Java, Spring framework, Angular, Oracle Hyperion**
+- 🌱 I’m currently learning **Java, Spring framework, Angular, MySql, Oracle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
