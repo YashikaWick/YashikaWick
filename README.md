@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yashika Wickramaarachchi</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">Software Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikawick&label=Profile%20views&color=0e75b6&style=flat" alt="yashikawick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikawick" alt="yashikawick" /></a> </p>
-
-- 🔭 I’m currently working on [Laboratory Management System](https://github.com/YashikaWick/labManagement)
 
 - 🌱 I’m currently learning **Java, Spring framework, Angular, MySql, Oracle**
 
